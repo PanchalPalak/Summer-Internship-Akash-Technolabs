@@ -1,0 +1,15 @@
+body{
+    font-size: larger;
+    background-color: pink;
+}
+
+.carousel-item{
+    height: 92.5vh;
+    margin-top: 52px;
+}
+nav{
+    position: sticky;
+}
+h1{
+    color:aqua;
+}
